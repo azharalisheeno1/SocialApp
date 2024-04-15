@@ -1,0 +1,11 @@
+.Postlist{
+
+  display: flex;
+  margin: 30px;
+  flex-wrap: wrap;
+  justify-content:space-around
+  /* flex-wrap: wrap; */
+  /* margin-top: 30px; */
+  
+  
+}
